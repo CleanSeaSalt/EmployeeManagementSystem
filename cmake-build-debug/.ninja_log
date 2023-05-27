@@ -1,0 +1,15 @@
+# ninja log v5
+743	788	1681287334044610387	EmployeeManagementSystem	b53a263b5f6d3c41
+0	12	7068119305496310	build.ninja	bb8672df736a439d
+29	1588	7068122501067901	CMakeFiles/EmployeeManagementSystem.dir/boss.cpp.obj	d1eb41be57d29c07
+16	1609	7068122501287861	CMakeFiles/EmployeeManagementSystem.dir/manager.cpp.obj	b71a09f8e58240bd
+24	1630	7068122501512057	CMakeFiles/EmployeeManagementSystem.dir/employee.cpp.obj	31ac30795fd7467
+0	1637	7068122501562162	CMakeFiles/EmployeeManagementSystem.dir/main.cpp.obj	3ed993468501e5e8
+8	1720	7068122502402053	CMakeFiles/EmployeeManagementSystem.dir/WorkerManager.cpp.obj	101a7938c9bd6569
+1720	1855	7068122503722074	F:/Clion/ClionProject/EmployeeManagementSystem/bin/EmployeeManagementSystem.exe	4e9d4e54f2a0f659
+3	1169	7068123942976559	CMakeFiles/EmployeeManagementSystem.dir/main.cpp.obj	3ed993468501e5e8
+1170	1283	7068123944066555	F:/Clion/ClionProject/EmployeeManagementSystem/bin/EmployeeManagementSystem.exe	4e9d4e54f2a0f659
+2	1158	7068125620980247	CMakeFiles/EmployeeManagementSystem.dir/main.cpp.obj	3ed993468501e5e8
+1159	1269	7068125622050570	F:/Clion/ClionProject/EmployeeManagementSystem/bin/EmployeeManagementSystem.exe	4e9d4e54f2a0f659
+2	1164	7068126074989071	CMakeFiles/EmployeeManagementSystem.dir/main.cpp.obj	3ed993468501e5e8
+1164	1274	7068126076058710	F:/Clion/ClionProject/EmployeeManagementSystem/bin/EmployeeManagementSystem.exe	4e9d4e54f2a0f659

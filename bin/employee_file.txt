@@ -1,0 +1,8 @@
+7 txy 3
+6 lj 1
+5 lml 2
+4 hkj 2
+3 zdf 2
+2 lxt 1
+1 lzh 2
+0 lxh 3
